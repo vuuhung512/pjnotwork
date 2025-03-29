@@ -1,0 +1,79 @@
+{
+    "lang": "vn",
+    "LOC": {
+        "vn": "Vị trí hiện tại[.....]",
+        "en": ""
+    },
+    "FarmOn": {
+        "vn": "Bật AUTO",
+        "en": "Turn on AUTO"
+    },
+    "ShowTest": {
+        "vn": "Bật chế độ test",
+        "en": "Turn on test mode"
+    },
+    "SpamHP": {
+        "vn": "Dùng HP liên tục",
+        "en": "Spam HP use"
+    },
+    "Speed": {
+        "vn": "Giá trị rất quan trọng, là tốc độ của người chơi.\nTốc độ khi không có trang bị là 40.\nCó 2 cách để điều chỉnh:\nCách 1: Bật Auto, nếu người chơi đi quá xa, tăng tốc độ, ngược lại thì giảm.\nCách 2: Sử dụng nút [TESTSPEED]",
+        "en": "A very important value, it is the player's speed.\nSpeed without equipment is 40.\nThere are 2 ways to calibrate:\nMethod 1: Turn on Auto, if the player goes too far, increase the speed, otherwise decrease.\nMethod 2: Use the [TESTSPEED] button"
+    },
+    "Delay": {
+        "vn": "Thời gian chờ tại ô cỏ khi Bật AUTO, mặc định là 2000 mili giây",
+        "en": "Waiting time at the grass cell when AUTO is on, default is 2000 milliseconds"
+    },
+    "Radius": {
+        "vn": "Khi chạy xa vị trí ban đầu một khoảng radius_move thì sẽ quay lại",
+        "en": "When running far from the initial position by radius_move distance, it will return"
+    },
+    "MatchImg": {
+        "vn": "Mặc định là 0.5",
+        "en": "Default is 0.5"
+    },
+    "Mess": {
+        "vn": "Phản hồi nút nhấn, Thông báo quan trọng",
+        "en": "Button press response, Important notifications"
+    },
+    "HomeFarm": {
+        "vn": "Tọa độ trên bản đồ.\nSau khi chết, Auto sẽ hồi sinh và quay lại tọa độ trên bản đồ",
+        "en": "Coordinates on the map.\nAfter death, Auto will revive and return to the coordinates on the map"
+    },
+    "Move": {
+        "vn": "Đi đến vị trí chỉ định",
+        "en": "go to loc"
+    },
+    "SET": {
+        "vn": "Đặt vị trí hiện tại làm tọa độ farm",
+        "en": "set now pos ís home"
+    },
+    "PROXY": {
+        "vn": "Proxy đã cấu hình trước đó\nĐể chỉnh sửa thủ công, dán proxy vào sau đó nhấn Enter\n (chỉ hoạt động khi phiên LDPlayer đã mở)",
+        "en": "Previously configured proxy.\nTo edit manually, paste the proxy and press Enter \n(only works when LDPlayer session is open)"
+    },
+    "SETALL": {
+        "vn": "Chỉ sử dụng trong trường hợp đặc biệt như tạo mới nhiều profile LDPlayer,\nBấm NEW sẽ lấy proxy miễn phí và cài đặt (chỉ hoạt động khi phiên LDPlayer đã mở)",
+        "en": "Use only in special cases like creating new LDPlayer profiles.\nThe NEW button will fetch and set a free proxy (only works when LDPlayer session is open)"
+    },
+    "READALL": {
+        "vn": "Đọc proxy thực tế của LDPlayer",
+        "en": "Read the actual proxy of LDPlayer"
+    },
+    "AUTOSPEED": {
+        "vn": "Chức năng tự động tính speed cho player.\nNếu vị trí cuối cùng player dừng lại là một ô cỏ thì speed đã tính là hợp lí.",
+        "en": "Auto-calculate speed for the player.\nIf the final position where the player stops is a grass tile, the calculated speed is valid."
+    },
+    "ĐÁ": {
+        "vn": "Tự Bán toàn bộ kho thành phần",
+        "en": "Auto Sell all"
+    },
+    "QUÁI": {
+        "vn": "Tự Bán toàn bộ quái",
+        "en": "Auto Sell mónter"
+    },
+    "Vị trí HT": {
+        "vn": "click để lấy lại vị trí nếu sai",
+        "en": " "
+    }
+}

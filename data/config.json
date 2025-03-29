@@ -1,0 +1,5220 @@
+{
+    "default": {
+        "checkvang": true,
+        "pathld": "D:\\LDPlayer\\LDPlayer9",
+        "debug": true,
+        "fastmode": false,
+        "highresolution": false,
+        "congthucchung": [
+            {
+                "name": "anyname",
+                "list8": [
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {},
+                    {}
+                ],
+                "mingold": 200
+            }
+        ],
+        "loaitru": [
+            [
+                true,
+                "images//ghepda/loaitru/bag.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/bag2.png",
+                0.6
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/bang.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/cxac.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/doc.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/hut.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/hutx.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/lan.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/lv10.png",
+                0.7
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/ne.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/phan.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/phan2.png",
+                0.5
+            ],
+            [
+                true,
+                "images//ghepda/loaitru/stcm.png",
+                0.5
+            ]
+        ],
+        "checkkc": false,
+        "stopbyrightclick": true,
+        "captchaalert": true,
+        "captchamatchpoint": 0.8,
+        "captchadebug": true,
+        "captchafailstopfarm": false,
+        "captchadetect": true,
+        "captchaautosolve": true,
+        "hidename": true,
+        "timeoutads": 20,
+        "autoupdate": true,
+        "adsselect": false,
+        "litemode": true,
+        "autofarmrate": false,
+        "highfps": false
+    },
+    "0": {
+        "speed": 100,
+        "bankinhdichuyen": 18,
+        "proxy": null,
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 0,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": true,
+        "addx": null,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                -2,
+                29
+            ],
+            [
+                7,
+                34
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/bang_0,45.png",
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 1000,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 600,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 600,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 600,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1500,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 600,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 600,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 600,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 600,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 600,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 600,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 1000,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 1000,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 1000,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 1000,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 1000,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 1000,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            0,
+            5,
+            1,
+            10
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {
+            "num_points": 4,
+            "offA": -0.3,
+            "offC": 1.3,
+            "hminoffset": 0.2,
+            "hmaxoffset": 0.7,
+            "mindistance": 3,
+            "randompercent": 40,
+            "turnforv2": true,
+            "turnforv1": false
+        },
+        "distancesoi": 6.0,
+        "sellkey": true,
+        "thresholdcraft": 0.9,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/all.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ]
+        }
+    },
+    "1": {
+        "speed": 120,
+        "bankinhdichuyen": 15,
+        "proxy": "162.240.154.26:3128",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 843553700,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10,
+            "list": [],
+            "delaykhidinhquai": 500
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {
+            "num_points": 4,
+            "offA": -0.3,
+            "offC": 1.3,
+            "hminoffset": 0.2,
+            "hmaxoffset": 0.7,
+            "mindistance": 3,
+            "randompercent": 40,
+            "turnforv2": false,
+            "turnforv1": true
+        },
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.74,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "spamhp": false,
+        "atksoi": 0,
+        "nesoi": false,
+        "highfps": false,
+        "thayruongdoitoado": false,
+        "pathskill": "images/skills/buffdmg.png"
+    },
+    "2": {
+        "speed": 110,
+        "bankinhdichuyen": 15,
+        "proxy": "146.190.80.158:9090",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 2104007588,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10,
+            "list": [
+                {
+                    "p": [
+                        -17,
+                        7
+                    ],
+                    "delay": 500
+                }
+            ],
+            "delaykhidinhquai": 100
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {
+            "num_points": 4,
+            "offA": -0.3,
+            "offC": 1.3,
+            "hminoffset": 0.2,
+            "hmaxoffset": 0.7,
+            "mindistance": 3,
+            "randompercent": 40,
+            "turnforv2": true,
+            "turnforv1": true
+        },
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.74,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "3": {
+        "speed": 95,
+        "bankinhdichuyen": 15,
+        "proxy": "15.204.240.177:3128",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 1754942628,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10,
+            "list": [
+                {
+                    "p": [
+                        -17,
+                        68
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -19,
+                        68
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -20,
+                        69
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -21,
+                        69
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -21,
+                        68
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -21,
+                        66
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -20,
+                        66
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -19,
+                        65
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -18,
+                        66
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -17,
+                        65
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -17,
+                        64
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -16,
+                        66
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -14,
+                        67
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -12,
+                        67
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -11,
+                        67
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -12,
+                        71
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -12,
+                        73
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -18,
+                        72
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -19,
+                        73
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -22,
+                        72
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -21,
+                        70
+                    ],
+                    "delay": 500
+                }
+            ],
+            "delaykhidinhquai": 500
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {
+            "num_points": 4,
+            "offA": -0.3,
+            "offC": 1.3,
+            "hminoffset": 0.2,
+            "hmaxoffset": 0.7,
+            "mindistance": 3,
+            "randompercent": 40,
+            "turnforv2": true,
+            "turnforv1": true
+        },
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.65,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false,
+        "spamhp": false
+    },
+    "4": {
+        "speed": 110,
+        "bankinhdichuyen": 15,
+        "proxy": "152.42.178.60:9090",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 2093472676,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10,
+            "list": [
+                {
+                    "p": [
+                        -7,
+                        2
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -8,
+                        3
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -9,
+                        2
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -10,
+                        4
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -10,
+                        5
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -11,
+                        5
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -12,
+                        8
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -11,
+                        9
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -10,
+                        11
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -6,
+                        10
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -4,
+                        9
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -4,
+                        8
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -3,
+                        7
+                    ],
+                    "delay": 500
+                },
+                {
+                    "p": [
+                        -5,
+                        5
+                    ],
+                    "delay": 500
+                }
+            ],
+            "delaykhidinhquai": 500
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet3.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {
+            "num_points": 4,
+            "offA": -0.3,
+            "offC": 1.3,
+            "hminoffset": 0.2,
+            "hmaxoffset": 0.7,
+            "mindistance": 3,
+            "randompercent": 40,
+            "turnforv2": true,
+            "turnforv1": false
+        },
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.65,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "spamhp": false,
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false,
+        "pathskill": "OFF",
+        "timeskill": 3
+    },
+    "5": {
+        "speed": 100,
+        "bankinhdichuyen": 15,
+        "proxy": "47.75.127.45:8080",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 1316625316,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {},
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.74,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "spamhp": true,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "6": {
+        "speed": 110,
+        "bankinhdichuyen": 15,
+        "proxy": "34.1.207.222:3128",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 425335716,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {},
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.65,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "spamhp": false,
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "7": {
+        "speed": 115,
+        "bankinhdichuyen": 15,
+        "proxy": "113.160.132.195:8080",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 1935158436,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {},
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.67,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "spamhp": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "8": {
+        "speed": 115,
+        "bankinhdichuyen": 15,
+        "proxy": "167.235.184.118:3128",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 2431355812,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {},
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.74,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "9": {
+        "speed": 110,
+        "bankinhdichuyen": 15,
+        "proxy": "103.190.171.197:8080",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 1935715236,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {},
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.74,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "10": {
+        "speed": 110,
+        "bankinhdichuyen": 15,
+        "proxy": "152.42.170.225:9090",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 1567042468,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10,
+            "list": [],
+            "delaykhidinhquai": 500
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png",
+            "images/boss/ngua1.png"
+        ],
+        "movecong": {
+            "num_points": 4,
+            "offA": -0.3,
+            "offC": 1.3,
+            "hminoffset": 0.2,
+            "hmaxoffset": 0.7,
+            "mindistance": 3,
+            "randompercent": 40,
+            "turnforv2": true,
+            "turnforv1": false
+        },
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.68,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "spamhp": true,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "11": {
+        "speed": 110,
+        "bankinhdichuyen": 15,
+        "proxy": "15.204.240.177:3128",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 1912187812,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {},
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.65,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "12": {
+        "speed": 100,
+        "bankinhdichuyen": 15,
+        "proxy": "146.190.80.158:9090",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 2380553124,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {
+            "num_points": 4,
+            "offA": -0.3,
+            "offC": 1.3,
+            "hminoffset": 0.2,
+            "hmaxoffset": 0.7,
+            "mindistance": 3,
+            "randompercent": 40,
+            "turnforv2": true,
+            "turnforv1": false
+        },
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.74,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "13": {
+        "speed": 110,
+        "bankinhdichuyen": 15,
+        "proxy": "77.242.98.39:8080",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 1479699620,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {
+            "num_points": 4,
+            "offA": -0.3,
+            "offC": 1.3,
+            "hminoffset": 0.2,
+            "hmaxoffset": 0.7,
+            "mindistance": 3,
+            "randompercent": 40,
+            "turnforv2": true,
+            "turnforv1": false
+        },
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.74,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "14": {
+        "speed": 120,
+        "bankinhdichuyen": 15,
+        "proxy": "103.149.177.204:3128",
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [
+                "images/da/ddo.png",
+                "images/da/kcx2.png",
+                "images/da/kcx.png",
+                "images/da/ptx.png"
+            ],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93,
+                "images/da/ptx.png": 0.7,
+                "images/da/kcx2.png": 0.7
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 2215525284,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10,
+            "list": [],
+            "delaykhidinhquai": 500
+        },
+        "toadofarms": [
+            [
+                124,
+                -71
+            ],
+            [
+                18,
+                122
+            ],
+            [
+                -76,
+                125
+            ],
+            [
+                -128,
+                27
+            ]
+        ],
+        "pathchatcos": [
+            "images/co/xnut3.png",
+            "images/co/xnut2.png",
+            "images/co/xnut.png",
+            "images/co/xn1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xanh1.png",
+            "images/co/xanh.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1200,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/x.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xamd_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "imageshigh/co/xam_0,52.png": {
+                "delay": 500,
+                "threshold": 0.52
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [
+            6,
+            9,
+            0,
+            7,
+            8,
+            5
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {},
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.6,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/all.png": [
+                0.74,
+                100,
+                1
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/allxam.png": [
+                0.81,
+                100,
+                1
+            ]
+        },
+        "atksoi": 0,
+        "nesoi": false,
+        "thayruongdoitoado": false,
+        "highfps": false
+    },
+    "15": {
+        "speed": 150,
+        "bankinhdichuyen": 20,
+        "proxy": null,
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS4",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 2,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": null,
+        "autoquai": true,
+        "autoqc": false,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [
+            [
+                25,
+                25
+            ]
+        ],
+        "pathchatcos": [
+            "imageshigh/co/xam5_0,55.png",
+            "imageshigh/co/xam4.png",
+            "imageshigh/co/nut3.png",
+            "imageshigh/co/xam1_0,65.png",
+            "imageshigh/co/xam3.png",
+            "imageshigh/co/xam2_0,62.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 500,
+                "threshold": 0.45
+            },
+            "images/co/x2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 500,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 500,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "images/co/capture.png": {
+                "delay": 500,
+                "threshold": 0.45
+            },
+            "imageshigh/co/bang.png": {
+                "delay": 500,
+                "threshold": 0.5,
+                "color": false
+            },
+            "imageshigh/co/bang2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/nut3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/test.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam1_0,65.png": {
+                "delay": 500,
+                "threshold": 0.65
+            },
+            "imageshigh/co/xam2_0,62.png": {
+                "delay": 500,
+                "threshold": 0.62
+            },
+            "imageshigh/co/xam3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam4.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xam5_0,55.png": {
+                "delay": 500,
+                "threshold": 0.55
+            },
+            "imageshigh/co/xanh1.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh2.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh3.png": {
+                "delay": 500,
+                "threshold": 0.5
+            },
+            "imageshigh/co/xanh_0,4.png": {
+                "delay": 500,
+                "threshold": 0.4
+            }
+        },
+        "ctghepdas": [
+            0,
+            6,
+            5,
+            10,
+            2
+        ],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [
+            "images/boss/ngua1.png",
+            "images/boss/pet2.png",
+            "images/boss/pet3.png",
+            "images/boss/pig.png",
+            "images/boss/quai1.png",
+            "images/boss/quai2.png",
+            "images/boss/quai3.png",
+            "images/boss/ttpet.png"
+        ],
+        "movecong": {},
+        "distancesoi": 3.5,
+        "sellkey": true,
+        "thresholdcraft": 0.9,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "khoidonglaikhiloitoado": true,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {
+            "images/quai/1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/all.png": [
+                0.6,
+                100,
+                0
+            ],
+            "images/quai/allxanh.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/nhim.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/nhim2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/nhim3.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/rong2.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/w2.png": [
+                0.6,
+                100,
+                2
+            ],
+            "images/quai/x1.png": [
+                0.6,
+                1000,
+                0
+            ],
+            "images/quai/x2.png": [
+                0.6,
+                1000,
+                0
+            ]
+        },
+        "atksoi": 0,
+        "spamhp": false,
+        "highfps": true
+    },
+    "16": {
+        "speed": 40,
+        "bankinhdichuyen": 18,
+        "proxy": null,
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS1",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": 33,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [],
+            "ratio": {
+                "images/da/ddo.png": 0.7,
+                "images/da/kc2.png": 0.7,
+                "images/da/kc1.png": 0.7,
+                "images/da/db.png": 0.93
+            },
+            "otrongfullkho": 4
+        },
+        "hide": false,
+        "addx": 1875995556,
+        "autoquai": true,
+        "autoqc": true,
+        "farmv2": {
+            "turn": false,
+            "phantramboqua": 10
+        },
+        "toadofarms": [],
+        "pathchatcos": [
+            "images/co/bang_0,45.png",
+            "images/co/capture.png",
+            "images/co/x2.png",
+            "images/co/xam_0,5.png",
+            "images/co/xam_0,6.png",
+            "images/co/xanh.png",
+            "images/co/xanh1.png",
+            "images/co/xanh_0,43.png",
+            "images/co/xn1.png",
+            "images/co/xnut.png",
+            "images/co/xnut2.png",
+            "images/co/xnut3.png"
+        ],
+        "configchatco": {
+            "images/co/bang_0,45.png": {
+                "delay": 1000,
+                "threshold": 0.45
+            },
+            "images/co/capture.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "images/co/x2.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,5.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "images/co/xam_0,6.png": {
+                "delay": 1000,
+                "threshold": 0.6
+            },
+            "images/co/xanh.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "images/co/xanh1.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "images/co/xanh_0,43.png": {
+                "delay": 1000,
+                "threshold": 0.43
+            },
+            "images/co/xn1.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "images/co/xnut.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "images/co/xnut2.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            },
+            "images/co/xnut3.png": {
+                "delay": 1000,
+                "threshold": 0.5
+            }
+        },
+        "ctghepdas": [],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [],
+        "movecong": {},
+        "distancesoi": 4,
+        "sellkey": true,
+        "thresholdcraft": 0.9,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {}
+    },
+    "True": {
+        "speed": 100,
+        "bankinhdichuyen": 18,
+        "proxy": null,
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS1",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": -1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [],
+            "ratio": {},
+            "otrongfullkho": 2
+        },
+        "hide": false,
+        "addx": null,
+        "autoquai": true,
+        "autoqc": true,
+        "farmv2": {},
+        "toadofarms": [],
+        "pathchatcos": [],
+        "configchatco": {},
+        "ctghepdas": [],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [],
+        "movecong": {},
+        "distancesoi": 4,
+        "nesoi": false,
+        "sellkey": true,
+        "thresholdcraft": 0.9,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "thayruongdoitoado": false,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {},
+        "highfps": false,
+        "pathskill": "",
+        "timeskill": 6,
+        "toadonelang": [
+            100,
+            100
+        ],
+        "nelang": false
+    },
+    "False": {
+        "speed": 100,
+        "bankinhdichuyen": 18,
+        "proxy": null,
+        "xfarm": 0,
+        "yfarm": 0,
+        "sever": "AS1",
+        "hoisinhlang": 0,
+        "autosell": {
+            "index": -1,
+            "every": 5,
+            "goback": [
+                -12,
+                12
+            ],
+            "paths": [],
+            "ratio": {},
+            "otrongfullkho": 2
+        },
+        "hide": false,
+        "addx": null,
+        "autoquai": true,
+        "autoqc": true,
+        "farmv2": {},
+        "toadofarms": [],
+        "pathchatcos": [],
+        "configchatco": {},
+        "ctghepdas": [],
+        "nangmaxdavang": true,
+        "pathquais": [],
+        "pathboss": [],
+        "movecong": {},
+        "distancesoi": 4,
+        "nesoi": false,
+        "sellkey": true,
+        "thresholdcraft": 0.9,
+        "catdakhinang": true,
+        "stopkhifullwallet": false,
+        "nangmaxdatim": false,
+        "autocraft": false,
+        "thayruongdoitoado": false,
+        "delaykhidinhquai": 0,
+        "afkads": false,
+        "threshold_delay_offsetquais": {},
+        "highfps": false,
+        "pathskill": "",
+        "timeskill": 6,
+        "toadonelang": [
+            100,
+            100
+        ],
+        "nelang": false
+    }
+}
