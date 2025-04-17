@@ -5,7 +5,7 @@ khi chọn folder cho công thức sẽ chỉ dùng đá nào khớp với các 
 Nếu không chọn có nghĩa là đá thường, loại trừ các đá trong kc event phoivang
 nâng đá tím max
 nâng đá vàng max
--UPDATE 1 click : button update in end col of CONTROL tab (not recommend)
+-UPDATE game 1 click : button update in end col of CONTROL tab (not recommend)
 ---------------------
 v4.81: 17-04
 FIX:
