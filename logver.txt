@@ -1,5 +1,17 @@
 
-comingsoon:
-v4.80: 16-04 23:17
-*thêm nút log : thông tin câp nhật chỉnh sửa các phiên bản
-*sync không cần khởi động lại
+v4.80:
+GHÉP ĐÁ:
+khi chọn folder cho công thức sẽ chỉ dùng đá nào khớp với các đá trong folder đã chọn
+Nếu không chọn có nghĩa là đá thường, loại trừ các đá trong kc event phoivang
+nâng đá tím max
+nâng đá vàng max
+---------------------
+v4.81: 17-04
+FIX:
+-tích use boss không lưu
+-captcha không cần thiết, hãy tắt đi ACTIVE>CAPTCHA CONFIG > bỏ tích dòng đầu để tắt <captcha detect>
+NEW:
+-thêm nút log : thông tin cập nhật chỉnh sửa các phiên bản
+-SYNCALL (đồng bộ cấu hình nhiều tab) không cần khởi động lại
+-Bộ đếm số đá vàng đã nâng max
+----------------------
