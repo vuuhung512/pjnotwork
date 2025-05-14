@@ -15,7 +15,7 @@ NEW:
 -SYNCALL (đồng bộ cấu hình nhiều tab) không cần khởi động lại
 -Bộ đếm số đá vàng đã nâng max sau khi merge
 ----------------------
-v4.82: 28-04 SÓI đã đến !
+v4.82: 28-04 
 -loại bỏ phần thấy rương đổi tọa độ.
 Thay vào đó:
 NEW: menu Quái
@@ -31,3 +31,6 @@ vẫn như cũ :các vị trí trong công thức cài loại gì (không chọn
 ảnh trong folder loại đó . ví dụ cài phoivang : chỉ lấy các vị trí khớp bởi các ảnh trong folder phoivang
 -------------------------
 
+v4.85 
+Fv3 (test). có thể tích ưu tiên né trong quái .
+farm đến khi mất hẳn ô cỏ.
