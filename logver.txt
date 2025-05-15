@@ -31,6 +31,5 @@ vẫn như cũ :các vị trí trong công thức cài loại gì (không chọn
 ảnh trong folder loại đó . ví dụ cài phoivang : chỉ lấy các vị trí khớp bởi các ảnh trong folder phoivang
 -------------------------
 
-v4.85 
-Fv3 (test). có thể tích ưu tiên né trong quái .
-farm đến khi mất hẳn ô cỏ.
+v4.86
+Fv3 (ok). 
