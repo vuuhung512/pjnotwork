@@ -100,9 +100,10 @@
         "timeoutads": 20,
         "autoupdate": true,
         "adsselect": false,
-        "litemode": true,
+        "litemode": false,
         "autofarmrate": false,
-        "highfps": false
+        "highfps": false,
+        "darkmode": false
     },
     "0": {
         "speed": 100,
@@ -125,7 +126,16 @@
                 "images/da/kc2.png": 0.7,
                 "images/da/kc1.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": true,
         "addx": null,
@@ -133,7 +143,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10
+            "phantramboqua": 20
         },
         "toadofarms": [
             [
@@ -149,10 +159,7 @@
             "images/co/bang_0,45.png",
             "images/co/xnut3.png",
             "images/co/xnut2.png",
-            "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png"
+            "images/co/xnut.png"
         ],
         "configchatco": {
             "images/co/bang_0,45.png": {
@@ -276,6 +283,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 1000,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -404,7 +415,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 843553700,
@@ -412,7 +432,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10,
+            "phantramboqua": 20,
             "list": [],
             "delaykhidinhquai": 500
         },
@@ -438,9 +458,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -565,6 +582,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -706,7 +727,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 2104007588,
@@ -714,7 +744,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10,
+            "phantramboqua": 20,
             "list": [
                 {
                     "p": [
@@ -748,9 +778,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -875,6 +902,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -1014,7 +1045,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 1754942628,
@@ -1022,7 +1062,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10,
+            "phantramboqua": 20,
             "list": [
                 {
                     "p": [
@@ -1196,9 +1236,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -1323,6 +1360,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -1463,7 +1504,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 2093472676,
@@ -1471,7 +1521,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10,
+            "phantramboqua": 20,
             "list": [
                 {
                     "p": [
@@ -1596,9 +1646,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -1723,6 +1770,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -1863,7 +1914,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 1316625316,
@@ -1871,7 +1931,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10
+            "phantramboqua": 20
         },
         "toadofarms": [
             [
@@ -1895,9 +1955,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -2022,6 +2079,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -2151,7 +2212,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 425335716,
@@ -2159,7 +2229,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10
+            "phantramboqua": 20
         },
         "toadofarms": [
             [
@@ -2183,9 +2253,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -2310,6 +2377,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -2440,7 +2511,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 1935158436,
@@ -2448,7 +2528,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10
+            "phantramboqua": 20
         },
         "toadofarms": [
             [
@@ -2472,9 +2552,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -2599,6 +2676,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -2728,7 +2809,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 2431355812,
@@ -2736,7 +2826,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10
+            "phantramboqua": 20
         },
         "toadofarms": [
             [
@@ -2760,9 +2850,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -2887,6 +2974,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -3016,7 +3107,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 1935715236,
@@ -3024,7 +3124,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10
+            "phantramboqua": 20
         },
         "toadofarms": [
             [
@@ -3048,9 +3148,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -3175,6 +3272,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -3304,7 +3405,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 1567042468,
@@ -3312,7 +3422,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10,
+            "phantramboqua": 20,
             "list": [],
             "delaykhidinhquai": 500
         },
@@ -3338,9 +3448,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -3465,6 +3572,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
@@ -3605,7 +3716,16 @@
                 "images/da/ptx.png": 0.7,
                 "images/da/kcx2.png": 0.7
             },
-            "otrongfullkho": 4
+            "otrongfullkho": 4,
+            "lua1": [
+                12,
+                12
+            ],
+            "lua2": [
+                12,
+                12
+            ],
+            "selltype": null
         },
         "hide": false,
         "addx": 1912187812,
@@ -3613,7 +3733,7 @@
         "autoqc": false,
         "farmv2": {
             "turn": false,
-            "phantramboqua": 10
+            "phantramboqua": 20
         },
         "toadofarms": [
             [
@@ -3637,9 +3757,6 @@
             "images/co/xnut3.png",
             "images/co/xnut2.png",
             "images/co/xnut.png",
-            "images/co/xn1.png",
-            "images/co/xanh_0,43.png",
-            "images/co/xanh1.png",
             "images/co/xanh.png"
         ],
         "configchatco": {
@@ -3764,6 +3881,10 @@
             "imageshigh/co/xanh3.png": {
                 "delay": 500,
                 "threshold": 0.5
+            },
+            "images/co/xanh_0,4.png": {
+                "delay": 1000,
+                "threshold": 0.4
             }
         },
         "ctghepdas": [
