@@ -1,0 +1,35 @@
+
+v4.80:
+GHÉP ĐÁ:
+khi chọn folder cho công thức sẽ chỉ dùng đá nào khớp với các đá trong folder đã chọn
+Nếu không chọn có nghĩa là đá thường, loại trừ các đá trong kc event phoivang
+nâng đá tím max
+nâng đá vàng max
+---------------------
+v4.81: 17-04
+FIX:
+-tích use boss không lưu
+-captcha không cần thiết, hãy tắt đi ACTIVE>CAPTCHA CONFIG > bỏ tích dòng đầu để tắt <captcha detect>
+NEW:
+-thêm nút log : thông tin cập nhật chỉnh sửa các phiên bản
+-SYNCALL (đồng bộ cấu hình nhiều tab) không cần khởi động lại
+-Bộ đếm số đá vàng đã nâng max sau khi merge
+----------------------
+v4.82: 28-04 
+-loại bỏ phần thấy rương đổi tọa độ.
+Thay vào đó:
+NEW: menu Quái
+thêm phần *Đổi_TĐ* ở các ảnh né <imageshigh/avoid> (đổi tọa độ khi phát hiện sói, rương,slime ..vv)
+( nếu tích ,thấy ảnh sẽ đổi tọa độ. nếu không: cơ chế né như cũ)
+-Đổi tọa độ theo thứ tự: khi đổi tọa độ sẽ chuyển sang tọa độ tiếp theo, đúng thứ tự đã cài
+(Khi chết vẫn random như trước)
+-FV3(chillfarm):Có thể chỉnh khoảng cách sói xa,điều kiện bán kính farm rộng 
+**Thời gian khởi động lâu,phù hợp cho chạy ít Tab . giao diện điều khiển bị lag khi đang chạy
+[]
+-Ghép đá:thêm các nút tìm toàn bộ ảnh trong folder event,phoivang,kc 
+vẫn như cũ :các vị trí trong công thức cài loại gì (không chọn/event,phoivang,kc ) thì chỉ lấy đá nào khớp 
+ảnh trong folder loại đó . ví dụ cài phoivang : chỉ lấy các vị trí khớp bởi các ảnh trong folder phoivang
+-------------------------
+
+v4.86
+Fv3 (ok). 
